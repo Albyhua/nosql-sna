@@ -13,6 +13,10 @@ This Social Network API is a backend service designed to provide a robust set of
 
 ## Installation
 
+
+https://github.com/Albyhua/nosql-sna/assets/134244028/2777d9b4-5da9-42e2-9e00-6644c59f23d3
+
+
 1. Navigate to the [repository](https://github.com/Albyhua/nosql-sna).
 2. Click on the `Clone or Download` button and copy the URL.
 3. Open your terminal and execute the command `git clone [repository-URL]`. Replace `[repository-URL]` with the URL you just copied.
